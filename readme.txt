@@ -1,3 +1,4 @@
+⚠️⚠️⚠️⚠️⚠️
 As métricas do lighthouse foram elevadas ao máximo que consegui, já que o template veio com muito conteúdo não utilizado na aplicação e não consegui identificar a localização de muitos desses elementos/documentos!
 
 
